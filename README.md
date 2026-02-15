@@ -1,2 +1,3 @@
-# payment-gold-bdc86a
-fastapi service
+# Golden Spring Boot Template
+
+Use this template for all microservices.
