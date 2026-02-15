@@ -1,0 +1,3 @@
+rules:
+  - no-hardcoded-secrets
+  - require-auth
